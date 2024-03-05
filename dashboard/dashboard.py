@@ -7,7 +7,7 @@ import seaborn as sns
 sns.set_theme(style="whitegrid")
 
 # Membaca data
-df = pd.read_csv('./dashboard/main_data.csv')
+df = pd.read_csv('main_data.csv')
 
 # Aplikasi Streamlit
 st.title('Analisis Penggunaan Sepeda')
