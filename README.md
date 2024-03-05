@@ -6,5 +6,5 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 ```
 Run Streamlit
 ```
-streamlit run ./dashboard/dashboard.py
+streamlit run dashboard.py
 ```
